@@ -1,4 +1,6 @@
-package com.kabirkang.stormy;
+package com.kabirkang.stormy.weather;
+
+import com.kabirkang.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -7,7 +9,7 @@ import java.util.TimeZone;
 /**
  * Created by Kabir on 2/28/15.
  */
-public class CurrentWeather {
+public class Current {
     private String mIcon;
     private long mTime;
     private double mTemperature;

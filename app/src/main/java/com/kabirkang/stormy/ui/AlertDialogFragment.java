@@ -1,4 +1,4 @@
-package com.kabirkang.stormy;
+package com.kabirkang.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -6,6 +6,8 @@ import android.app.FragmentManager;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
+
+import com.kabirkang.stormy.R;
 
 /**
  * Created by Kabir on 2/28/15.
